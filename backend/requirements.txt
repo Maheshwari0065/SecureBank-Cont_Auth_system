@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+pyodbc
+numpy
+scikit-learn
+joblib
+PyJWT
+Werkzeug
